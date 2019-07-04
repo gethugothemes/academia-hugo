@@ -1,0 +1,43 @@
+<footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        {{ with site.GetPage "privacy.md" }}
+        <p class="powered-by">
+          {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+        </p>
+        {{ end }}
+        <p>
+          {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          {{/* Contact links. */}}
+          {{ range site.Params.contact_links }}
+          {{ $pack := or .icon_pack "fas" }}
+          {{ $pack_prefix := $pack }}
+          {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+          {{ end }}
+          {{ $link := .link }}
+          {{ $scheme := (urls.Parse $link).Scheme }}
+          {{ $target := "" }}
+          {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+          {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+          {{ end }}
+          <li class="list-inline-item">
+            <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} title="{{.name}}"><i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}" aria-hidden="true"></i></a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
