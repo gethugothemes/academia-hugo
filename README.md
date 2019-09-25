@@ -1,7 +1,7 @@
 <div align="center">
 
 # [Academia Hugo](https://themefisher.com/hugo-themes/)
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+[![Screenshot](https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png)](https://github.com/gcushen/hugo-academic/)
 
 </div>
 
