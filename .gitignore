@@ -1,7 +1,6 @@
 # IDE specific
 .idea/
 .vscode/
-resources/
 
 # Jupyter
 .ipynb_checkpoints/
