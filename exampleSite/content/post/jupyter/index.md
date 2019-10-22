@@ -1,7 +1,7 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: Display Jupyter Notebooks with academia
+subtitle: Learn how to blog in academia using Jupyter notebooks
+summary: Learn how to blog in academia using Jupyter notebooks
 authors:
 - admin
 tags: []
@@ -62,16 +62,16 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 
 
 
-![png](./academic_0_0.png)
+![png](./academia_0_0.png)
 
 
 
 
 ```python
-print("Welcome to Academic!")
+print("Welcome to academia!")
 ```
 
-    Welcome to Academic!
+    Welcome to academia!
 
 
 ## Install Python and Jupyter
@@ -82,7 +82,7 @@ Otherwise, for advanced users, install Jupyter notebook with `pip3 install jupyt
 
 ## Create a new blog post [as usual](https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post)
 
-Run the following commands in your Terminal, substituting `<MY_WEBSITE_FOLDER>` and `my-post` with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:  
+Run the following commands in your Terminal, substituting `<MY_WEBSITE_FOLDER>` and `my-post` with the file path to your academia website folder and a name for your blog post (without spaces), respectively:  
 
 ```bash
 cd <MY_WEBSITE_FOLDER>
@@ -116,4 +116,4 @@ Open `index.md` in your text editor and edit the title etc. in the [front matter
 
 To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
 
-For other tips, such as using math, see the guide on [writing content with Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
+For other tips, such as using math, see the guide on [writing content with academia](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 

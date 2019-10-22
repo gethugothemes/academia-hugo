@@ -1,11 +1,11 @@
 ---
-title: 'Academic: the website builder for Hugo'
+title: 'academia: the website builder for Hugo'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
 tags:
-- Academic
+- academia
 categories: []
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
@@ -55,23 +55,23 @@ gallery_item:
   image: theme-strawberry.png
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+**Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+[Check out the latest **demo**](https://academia-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
 
-- [**Setup Academic**](#install)
+- [**Setup academia**](#install)
 - [**Get Started**](https://sourcethemes.com/academic/docs/get-started/)
 - [View the documentation](https://sourcethemes.com/academic/docs/)
 - [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
+- [Request a feature or report a bug](https://github.com/gcushen/hugo-academia/issues)
 - Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
+- Support development of academia:
   - [Donate a coffee](https://paypal.me/cushen)
   - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+  - [Decorate your laptop or journal with an academia sticker](https://www.redbubble.com/people/neutreno/works/34387919-academia)
+  - [Wear the T-shirt](https://academia.threadless.com/)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academia/master/academia.png)](https://github.com/gcushen/hugo-academia/)
 
 **Key features:**
 
@@ -93,7 +93,7 @@ gallery_item:
 
 ## Color Themes
 
-Academic comes with **day (light) and night (dark) mode** built-in. Click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action!
+academia comes with **day (light) and night (dark) mode** built-in. Click the sun/moon icon in the top right of the [Demo](https://academia-demo.netlify.com/) to see it in action!
 
 Choose a stunning color and font theme for your site. Themes are fully customizable and include:
 
@@ -101,8 +101,8 @@ Choose a stunning color and font theme for your site. Themes are fully customiza
 
 ## Ecosystem
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+* **[academia Admin](https://github.com/sourcethemes/academia-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
+* **[academia Scripts](https://github.com/sourcethemes/academia-scripts):** Scripts to help migrate content to new versions of academia
 
 ## Install
 
@@ -119,10 +119,10 @@ Then [personalize and deploy your new site](https://sourcethemes.com/academic/do
 
 [View the Update Guide](https://sourcethemes.com/academic/docs/update/).
 
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
+Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academia/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
 
 ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/gcushen/hugo-academia/blob/master/LICENSE.md) license.

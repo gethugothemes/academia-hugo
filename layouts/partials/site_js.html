@@ -130,24 +130,24 @@
     </script>
     {{ end }}
 
-    {{ $js_comment := printf "/* Source Themes Academic v%s | https://sourcethemes.com/academic/ */\n" site.Data.academic.version }}
+    {{ $js_comment := printf "/* Source Themes academia v%s | https://sourcethemes.com/academic/ */\n" site.Data.academia.version }}
     {{ $js_bundle_head := $js_comment | resources.FromString "js/bundle-head.js" }}
     {{ $js_linebreak := "\n" | resources.FromString "js/linebreak.js" }}{{/* Fix no line break after Bootstrap JS causing error. */}}
-    {{ $js_academic := resources.Get "js/academic.js" }}
-    {{ $js_academic_search := resources.Get "js/academic-search.js" }}
+    {{ $js_academia := resources.Get "js/academia.js" }}
+    {{ $js_academia_search := resources.Get "js/academia-search.js" }}
     {{ $js_algolia_search := resources.Get "js/algolia-search.js" }}
     {{ $js_bootstrap := resources.Get "js/vendor/bootstrap.min.js" }}
-    {{ $js_bundle := slice $js_bootstrap $js_linebreak $js_academic }}
+    {{ $js_bundle := slice $js_bootstrap $js_linebreak $js_academia }}
     {{ if eq site.Params.search.engine 1 }}
-      {{ $js_bundle = $js_bundle | append $js_academic_search }}
+      {{ $js_bundle = $js_bundle | append $js_academia_search }}
     {{ else if eq site.Params.search.engine 2 }}
       {{ $js_bundle = $js_bundle | append $js_algolia_search }}
     {{ end }}
     {{ range site.Params.plugins_js }}
       {{ $js_bundle = $js_bundle | append (resources.Get (printf "js/%s.js" .)) }}
     {{ end }}
-    {{ $js_bundle := $js_bundle | resources.Concat "js/academic-bundle-pre.js" | minify }}
-    {{ $js_bundle := slice $js_bundle_head $js_bundle | resources.Concat "js/academic.min.js" | fingerprint "md5" }}
+    {{ $js_bundle := $js_bundle | resources.Concat "js/academia-bundle-pre.js" | minify }}
+    {{ $js_bundle := slice $js_bundle_head $js_bundle | resources.Concat "js/academia.min.js" | fingerprint "md5" }}
     <script src="{{ $js_bundle.RelPermalink }}"></script>
 
     {{ partial "custom_js" . }}

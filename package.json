@@ -1,5 +1,5 @@
 {
-  "name": "academic",
+  "name": "academia",
   "version": "1.0.0",
   "description": "The Page Builder for Hugo",
   "main": "index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gcushen/hugo-academic.git"
+    "url": "git+https://github.com/gcushen/hugo-academia.git"
   },
   "author": "George Cushen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gcushen/hugo-academic/issues"
+    "url": "https://github.com/gcushen/hugo-academia/issues"
   },
-  "homepage": "https://github.com/gcushen/hugo-academic#readme"
+  "homepage": "https://github.com/gcushen/hugo-academia#readme"
 }

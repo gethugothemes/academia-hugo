@@ -1,6 +1,6 @@
 /*************************************************
- *  Academic
- *  https://github.com/gcushen/hugo-academic
+ *  academia
+ *  https://github.com/gcushen/hugo-academia
  *
  *  In-built Fuse based search algorithm.
  **************************************************/
@@ -63,13 +63,13 @@ function initSearch(force, fuse) {
 
   // Do search.
   $('#search-hits').empty();
-  searchAcademic(query, fuse);
+  searchacademia(query, fuse);
   let newURL = window.location.protocol + "//" + window.location.host + window.location.pathname + '?q=' + encodeURIComponent(query) + window.location.hash;
   updateURL(newURL);
 }
 
 // Perform search.
-function searchAcademic(query, fuse) {
+function searchacademia(query, fuse) {
   let results = fuse.search(query);
   // console.log({"results": results});
 
@@ -148,7 +148,7 @@ function render(template, data) {
 * Initialize.
 * --------------------------------------------------------------------------- */
 
-// If Academic's in-built search is enabled and Fuse loaded, then initialize it.
+// If academia's in-built search is enabled and Fuse loaded, then initialize it.
 if (typeof Fuse === 'function') {
 // Wait for Fuse to initialize.
   $.getJSON(search_index_filename, function (search_index) {

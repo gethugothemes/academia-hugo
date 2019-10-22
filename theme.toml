@@ -46,6 +46,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 # If porting an existing theme
 [original]
-  name = "Academic"
+  name = "academic"
   homepage = "https://sourcethemes.com/academic/"
   repo = "https://github.com/gcushen/hugo-academic"

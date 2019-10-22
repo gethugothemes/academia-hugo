@@ -10,7 +10,7 @@
     <title>{{ if eq  .Title  site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
     <description>Recent content {{ if ne  .Title  site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ site.Title }}</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>{{ with site.LanguageCode }}
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>{{ with site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with site.Author.email }}
     <managingEditor>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with site.Author.email }}
     <webMaster>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with site.Copyright }}

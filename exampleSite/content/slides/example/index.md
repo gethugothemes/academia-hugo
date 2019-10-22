@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Academic's Slides feature.
+summary: An introduction to using academia's Slides feature.
 authors: []
 tags: []
 categories: []
@@ -15,7 +15,7 @@ slides:
 
 # Welcome to Slides
 
-[Academic](https://sourcethemes.com/academic/)
+[academia](https://sourcethemes.com/academic/)
 
 ---
 
