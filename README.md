@@ -1,9 +1,7 @@
 <div align="center">
-
-# [Academia Hugo](https://themefisher.com/hugo-themes/)
-**This theme is fork from [Academic Hugo](https://github.com/gcushen/hugo-academic), You can follow original academic [documentation](https://sourcethemes.com/academic/docs/) for setup this theme**
-[![Screenshot](https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png)](https://github.com/gcushen/hugo-academia/)
-
+  <h1><a href="https://gethugothemes.com/" target="_blank" rel="noopener noreferrer">Academia Hugo</a></h1>
+  <p>This theme is a fork of the <a href="https://github.com/gcushen/hugo-academic">Hugo Academic Theme</a>, To setup your project with the Academia Hugo Theme, please read the original theme's <a href="https://sourcethemes.com/academic/docs/" rel="nofollow">documentation</a>.</p>
+  <img src="https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png" width="100%" alt="Liva Blog template by themefisher">
 </div>
 
 **Key features:**
