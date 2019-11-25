@@ -24,6 +24,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+# Should the user's education and interests be displayed?
+display_education: false
+
 interests:
 - Artificial Intelligence
 - Computational Linguistics
