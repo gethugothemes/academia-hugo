@@ -77,8 +77,8 @@
     {{ end }}
 
 
-
-    <!-- <div class="row">
+    {{ if $person.display_education }}
+    <div class="row">
 
       {{ with $person.education }}
       <div class="col-md-7">
@@ -108,6 +108,7 @@
       </div>
       {{ end }}
 
-    </div> -->
+    </div>
+    {{ end }}
   </div>
 </div>
