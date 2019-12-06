@@ -31,8 +31,14 @@
           {{end}}
         </div>
 
-        {{with .description}}
+       {{with .description}}
         <div class="card-text">{{. | markdownify | emojify}}</div>
+        {{end}}
+
+        {{with .certificate_pic}}
+        <div class="col-6 mx-auto col-md-6 order-md-2 hero-media">
+          <img class="hero-img img-fluid" src="img/{{.}}" alt="">
+        </div>
         {{end}}
 
         {{ with .certificate_url }}
