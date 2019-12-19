@@ -2,7 +2,7 @@ name = "Academia Hugo"
 license = "MIT"
 licenselink = "https://github.com/themefisher/academia-hugo/blob/master/LICENSE.md"
 description = "The website builder for Hugo. Build *anything* with widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
-homepage = "https://themefisher.com/hugo-themes/"
+homepage = "https://gethugothemes.com/products/academia/"
 min_version = "0.55.0"
 tags = ["widgets",
         "resume",
