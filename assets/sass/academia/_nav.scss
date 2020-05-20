@@ -44,14 +44,14 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: $sta-menu-text-active;
+  color: $sta-menu-text-active !important;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: $sta-menu-text-active;
+  color: $sta-menu-text-active !important;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
