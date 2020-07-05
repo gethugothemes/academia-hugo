@@ -45,7 +45,7 @@ $ git clone git@github.com:themefisher/academia-hugo.git
 We use GitHub Issues as the official bug tracker for the Academia Template. Please Search [existing issues](https://github.com/themefisher/academia-hugo/issues). It’s possible someone has already reported the same problem.
 If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/academia-hugo/issues)
 
-## Technical Support or Questions
+## Technical Support or Questions (Paid)
 
 If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.  
 
