@@ -1,8 +1,12 @@
 <div align="center">
   <h1><a href="https://gethugothemes.com/products/academia/" target="_blank" rel="noopener noreferrer">Academia Hugo</a></h1>
-  <p>This theme is a fork of the <a href="https://github.com/gcushen/hugo-academic">Hugo Academic Theme</a>, To setup your project with the Academia Hugo Theme, please read the original theme's <a href="https://sourcethemes.com/academic/docs/" rel="nofollow">documentation</a>.</p>
   <img src="https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png" width="100%" alt="Liva Blog template by themefisher">
 </div>
+
+
+##About
+This is an adaptation of the Jekyll theme [starter-academic](https://github.com/wowchemy/starter-academic) by [wowchemy](https://github.com/wowchemy). It supports most of the features of the original theme, and many new features. We improved the core design and added more latest features . 
+
 
 **Key features:**
 
@@ -66,6 +70,8 @@ Of course, you can also choose what you want to donate, all donations are awesom
 
 ## Hire Us
 We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
+
+
 
 ## Premium Themes
 
