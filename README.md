@@ -5,7 +5,7 @@
 
 
 ## About
-This is an adaptation of the Jekyll theme [starter-academic](https://github.com/wowchemy/starter-academic) by [wowchemy](https://github.com/wowchemy). It supports most of the features of the original theme, and many new features. We improved the core design and added more latest features . 
+This is an adaptation of the hugo theme [starter-academic](https://github.com/wowchemy/starter-academic) by [wowchemy](https://github.com/wowchemy). It supports most of the features of the original theme, and many new features. We improved the core design and added more latest features . 
 
 
 **Key features:**
