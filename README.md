@@ -1,8 +1,12 @@
 <div align="center">
-  <h1><a href="https://gethugothemes.com/" target="_blank" rel="noopener noreferrer">Academia Hugo</a></h1>
-  <p>This theme is a fork of the <a href="https://github.com/gcushen/hugo-academic">Hugo Academic Theme</a>, To setup your project with the Academia Hugo Theme, please read the original theme's <a href="https://sourcethemes.com/academic/docs/" rel="nofollow">documentation</a>.</p>
+  <h1><a href="https://gethugothemes.com/products/academia/" target="_blank" rel="noopener noreferrer">Academia Hugo</a></h1>
   <img src="https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png" width="100%" alt="Liva Blog template by themefisher">
 </div>
+
+
+## About
+This is an adaptation of the hugo theme [starter-academic](https://github.com/wowchemy/starter-academic) by [wowchemy](https://github.com/wowchemy). It supports most of the features of the original theme, and many new features. We improved the core design and added more latest features . 
+
 
 **Key features:**
 
@@ -51,13 +55,23 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 
 If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.  
 
-## Licensing
+## Donate Us (Author) 
+This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated . Thank you!
 
-This Theme is released under [Creative Commons Attribution 3.0 (CC-BY-3.0) License](https://creativecommons.org/licenses/by/3.0/)
-If you want to remove the credit simply make a [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GSG5G2YL3E5V4), so that we can run our contribution to hugo community.
+* **[Donate $10](https://www.paypal.me/themefisher/10USD)**: Thank's for creating this project, here's a tea (or some juice) for you!
+* **[Donate $20](https://www.paypal.me/themefisher/20USD)**: Wow, I am stunned. Let me take you to the movies!
+* **[Donate $30](https://www.paypal.me/themefisher/30USD)**: I really appreciate your work, let's grab some lunch!
+* **[Donate $40](https://www.paypal.me/themefisher/40USD)**: That's some awesome stuff you did right there, dinner is on me!
+* **[Donate $50](https://www.paypal.me/themefisher/50USD)**: I really really want to support this project, great job!
+* **[Donate $100](https://www.paypal.me/themefisher/100USD)**: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
+* **[Donate $1500](https://www.paypal.me/themefisher/1500USD)**: Go buddy, buy Macbook Pro for yourself!
+
+Of course, you can also choose what you want to donate, all donations are awesome !
 
 ## Hire Us
 We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
+
+
 
 ## Premium Themes
 
