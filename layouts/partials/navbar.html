@@ -11,13 +11,12 @@
         {{- end -}}
       </a>
       {{ if or site.Menus.main .IsTranslated }}
-      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}"><span><i class="fas fa-bars"></i></span>
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n `toggle_navigation` }}"><span><i class="fas fa-bars"></i></span>
       </button>
       {{ end }}
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar">
-
       <!-- Left Nav Bar -->
       {{ $align_right := site.Params.menu_align_right | default true }}
       <ul class="navbar-nav {{ if $align_right }}ml-auto{{ else }}mr-auto{{ end }}">
@@ -127,7 +126,6 @@
         {{ end }}
 
       </ul>
-
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
 </nav>

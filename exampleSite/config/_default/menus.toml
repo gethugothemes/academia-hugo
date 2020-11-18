@@ -33,6 +33,21 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "dropdown"
+  url = "#"
+  hasChildren = true
+
+[[main]]
+  parent = "dropdown"
+  name = "dropdown 1"
+  url = "#"
+
+[[main]]
+  parent = "dropdown"
+  name = "dropdown 2"
+  url = "#!"
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
