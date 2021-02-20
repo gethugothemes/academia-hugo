@@ -18,7 +18,7 @@
   {{ $show_buttons = true }}
 {{ end }}
 
-<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+<div class="view-list-item col-lg-8 mx-auto" itemscope itemtype="http://schema.org/{{$microdata_type}}">
   <i class="far {{$icon}} pub-icon" aria-hidden="true"></i>
   <a href="{{ $item.RelPermalink }}" itemprop="url"><span itemprop="name">{{ $item.Title }}</span></a>
 
