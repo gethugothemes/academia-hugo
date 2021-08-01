@@ -49,7 +49,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 ############################
-## Contact Widget setup   ##
+##  Contact Widget setup  ##
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
