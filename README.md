@@ -120,7 +120,7 @@ share those images.
 - [Reveal](https://github.com/hakimel/reveal.js)
 - [Isotope](https://isotope.metafizzy.co/)
 - [Fancybox](https://fancyapps.com/fancybox/)
-- [highlight](https://github.com/highlightjs/highlight.js/)
+- [Highlight](https://github.com/highlightjs/highlight.js/)
 - [Font Awesome Icons](https://fontawesome.com)
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/themefisher/academia-hugo/graphs/contributors)
@@ -128,7 +128,7 @@ share those images.
 
 ## Hire Us
 We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://cutt.ly/ght-service)
+[services](https://gethugothemes.com/services/?ref=github)
 
 <!-- premium themes -->
 ## Premium Themes By Us
