@@ -21,7 +21,6 @@
 ---
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png" width="100%" alt="academia">
   <img src="https://demo.gethugothemes.com/thumbnails/academia.webp" alt="screenshot" width="100%">
 </p>
 
