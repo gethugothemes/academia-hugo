@@ -132,6 +132,6 @@ We are available for **Hiring** for your next HUGO project. Please, check our
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![vixcon](https://demo.gethugothemes.com/thumbnails/vixcon.webp)](https://gethugothemes.com/products/vixcon/) | [![delta](https://demo.gethugothemes.com/thumbnails/delta.webp)](https://gethugothemes.com/products/delta/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.webp)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.webp)](https://gethugothemes.com/products/northendlab/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Vixcon** | **Delta** |
+| **Premium Theme Bundle (40+)** | **Gofolium** | **Northendlab** |
