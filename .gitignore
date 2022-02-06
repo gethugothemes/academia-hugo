@@ -8,3 +8,7 @@
 # Node
 node_modules/
 public
+
+.hugo_build.lock
+resources
+.DS_Store
