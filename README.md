@@ -134,6 +134,6 @@ If you need to customize the theme or complete website development from scratch,
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.webp)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.webp)](https://gethugothemes.com/products/northendlab/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.webp)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.webp)](https://gethugothemes.com/products/northendlab/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Gofolium** | **Northendlab** |
+| **Get 50+ Premium Hugo Themes Bundle** | **Gofolium** | **Northendlab** |
