@@ -27,6 +27,7 @@
 ---
 
 ## Features
+
 - Google analytics support
 - Multiple author available
 - Contact form Support
@@ -36,7 +37,6 @@
 - Google page speed optimized ( 55% )
 - Open graph meta tag
 - Twitter card meta tag
-
 
 ## Local development
 
@@ -50,6 +50,7 @@ $ cd academia-hugo/exampleSite/
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
+
 Or Check out [Full Documentation](https://docs.gethugothemes.com/academia/?ref=github).
 
 ## Content Management System
@@ -63,7 +64,6 @@ you will be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
-
 ## Deployment and hosting
 
 [![Deploy to
@@ -72,39 +72,42 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 Follow the steps.
 
 ## Prefer a video? (Hugo + Netlify + Forestry)
+
 Build your website with **Academia Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the academia Template. Please Search [existing
 issues](https://github.com/themefisher/academia-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/themefisher/academia-hugo/issues).
 
 ## Academia Hugo Powered Websites
-- https://www.actiphysique.fr/
-- https://www.azurethamesvalley.com/
-- https://kinkeldey.com/
-- https://garthorr.com/
-- https://gaug.co.uk/
-- https://idmn.me/
-- http://graysonwhite.com/
-- https://makotokawano.com/
-- https://www.mehrnazamiri.com/
-- https://osorensen.rbind.io/
-- https://www.yongjiguan.com/
-- https://www.tkovs.com/
-- https://dipterix.org/
-- https://timiowourocom.firebaseapp.com/
-- https://svensmark.jp/
-- https://www.hannesdatta.com/
 
+- <https://www.actiphysique.fr/>
+- <https://www.azurethamesvalley.com/>
+- <https://kinkeldey.com/>
+- <https://garthorr.com/>
+- <https://gaug.co.uk/>
+- <https://idmn.me/>
+- <http://graysonwhite.com/>
+- <https://makotokawano.com/>
+- <https://www.mehrnazamiri.com/>
+- <https://osorensen.rbind.io/>
+- <https://www.yongjiguan.com/>
+- <https://www.tkovs.com/>
+- <https://dipterix.org/>
+- <https://timiowourocom.firebaseapp.com/>
+- <https://svensmark.jp/>
+- <https://www.hannesdatta.com/>
 
 View all the websites powered by Academia Hugo [here](https://github.com/themefisher/academia-hugo/wiki/Popular-sites-powered-by-Academia-Hugo). Want to submit your own website powered by Academia Hugo? You can submit it [here](https://github.com/themefisher/academia-hugo/discussions/33).
 
 <!-- licence -->
 ## License
+
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
@@ -115,6 +118,7 @@ share those images.
 
 <!-- resources -->
 ## Special Thanks
+
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
 - [Reveal](https://github.com/hakimel/reveal.js)
@@ -125,15 +129,16 @@ share those images.
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/themefisher/academia-hugo/graphs/contributors)
 
-
 ## Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
+
+Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo.
 
 If you need to customize the theme or complete website development from scratch, you can hire us. Check our
 [Services](https://gethugothemes.com/services/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme)
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.webp)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.webp)](https://gethugothemes.com/products/northendlab/) |
+
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.png)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.png)](https://gethugothemes.com/products/northendlab/) |
 |:---:|:---:|:---:|
 | **Get 50+ Premium Hugo Themes Bundle** | **Gofolium** | **Northendlab** |
