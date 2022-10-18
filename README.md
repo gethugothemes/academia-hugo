@@ -1,4 +1,4 @@
-<h1 align=center>Academia Hugo | <a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Facademia%2F">Page Speed (55%)</a></h1>
+<h1 align=center>Academia Hugo | <a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">Demo</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.55.0" alt="Contributors">
