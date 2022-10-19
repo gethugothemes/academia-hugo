@@ -39,7 +39,7 @@
 - Post reading time calculator
 - Google map support
 - Post reading time calculator
-- Google page speed optimized ( 55% )
+- Google page speed optimized ( 97% )
 - Open graph meta tag
 - Twitter card meta tag
 
