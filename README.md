@@ -1,4 +1,9 @@
-<h1 align=center>Academia Hugo | <a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">Demo</a></h1>
+<h1 align=center>Academia Hugo </h1>
+
+<p align=center> This Hugo theme is perfect for crafting a website for academic portfolio, Resume, publication, etc. The theme basically includes six crucial pages, essential homepage sections, forms, and more</p>
+
+<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Facademia%2Fsite%2F&form_factor=desktop" rel="nofollow">Page Speed (97%)</a> </h2>
+
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.55.0" alt="Contributors">
@@ -26,7 +31,7 @@
 
 ---
 
-## Features
+## Key Features
 
 - Google analytics support
 - Multiple author available
@@ -86,24 +91,22 @@ issue](https://github.com/themefisher/academia-hugo/issues).
 
 ## Academia Hugo Powered Websites
 
-- <https://www.actiphysique.fr/>
-- <https://www.azurethamesvalley.com/>
+- <https://www.ayakabehro.com/>
+- <https://www.jobnmadu.com/>
+- <https://www.mehrnazamiri.com/>
+- <https://www.robertovalli.com/>
+- <https://www.joyceguan.com/>
 - <https://kinkeldey.com/>
 - <https://garthorr.com/>
 - <https://gaug.co.uk/>
 - <https://idmn.me/>
-- <http://graysonwhite.com/>
-- <https://makotokawano.com/>
-- <https://www.mehrnazamiri.com/>
 - <https://osorensen.rbind.io/>
-- <https://www.yongjiguan.com/>
 - <https://www.tkovs.com/>
-- <https://dipterix.org/>
 - <https://timiowourocom.firebaseapp.com/>
 - <https://svensmark.jp/>
-- <https://www.hannesdatta.com/>
 
-View all the websites powered by Academia Hugo [here](https://github.com/themefisher/academia-hugo/wiki/Popular-sites-powered-by-Academia-Hugo). Want to submit your own website powered by Academia Hugo? You can submit it [here](https://github.com/themefisher/academia-hugo/discussions/33).
+
+View all the websites powered by Academia Hugo [here](https://gethugothemes.com/showcase). Want to submit your own website powered by Academia Hugo? You can submit it [here](https://gethugothemes.com/showcase).
 
 <!-- licence -->
 ## License
@@ -139,6 +142,6 @@ If you need to customize the theme or complete website development from scratch,
 <!-- premium themes -->
 ## Premium Themes By Us
 
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.png)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.png)](https://gethugothemes.com/products/northendlab/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.png)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.png)](https://gethugothemes.com/products/northendlab/) |
 |:---:|:---:|:---:|
-| **Get 50+ Premium Hugo Themes Bundle** | **Gofolium** | **Northendlab** |
+| **Get 55+ Premium Hugo Themes Bundle** | **Gofolium** | **Northendlab** |
