@@ -39,7 +39,7 @@
 - Post reading time calculator
 - Google map support
 - Post reading time calculator
-- Google page speed optimized ( 97% )
+- Google page speed optimized
 - Open graph meta tag
 - Twitter card meta tag
 
@@ -89,24 +89,15 @@ issues](https://github.com/themefisher/academia-hugo/issues). Someone may have a
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/themefisher/academia-hugo/issues).
 
-## Academia Hugo Powered Websites
+## Submit Your Website To Our Showcase
 
-- <https://www.ayakabehro.com/>
-- <https://www.jobnmadu.com/>
-- <https://www.mehrnazamiri.com/>
-- <https://www.robertovalli.com/>
-- <https://www.joyceguan.com/>
-- <https://kinkeldey.com/>
-- <https://garthorr.com/>
-- <https://gaug.co.uk/>
-- <https://idmn.me/>
-- <https://osorensen.rbind.io/>
-- <https://www.tkovs.com/>
-- <https://timiowourocom.firebaseapp.com/>
-- <https://svensmark.jp/>
+Are you using Academia Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
+Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
 
-View all the websites powered by Academia Hugo [here](https://gethugothemes.com/showcase). Want to submit your own website powered by Academia Hugo? You can submit it [here](https://gethugothemes.com/showcase).
+View all the websites powered by Academia Hugo from [here](https://gethugothemes.com/showcase?theme=academia). 
+
+[Submit](https://gethugothemes.com/showcase?submit=show) your Academia Hugo powered website.
 
 <!-- licence -->
 ## License
