@@ -2,7 +2,7 @@
 
 <p align=center> This Hugo theme is perfect for crafting a website for academic portfolio, Resume, publication, etc. The theme basically includes six crucial pages, essential homepage sections, forms, and more</p>
 
-<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Facademia%2Fsite%2F&form_factor=desktop" rel="nofollow">Page Speed (97%)</a> </h2>
+<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">👀Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Facademia%2Fsite%2F&form_factor=desktop" rel="nofollow">Page Speed (97%)🚀</a> </h2>
 
 
 <p align=center>
@@ -23,27 +23,36 @@
       alt="follow on Twitter"></a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://demo.gethugothemes.com/thumbnails/academia.png" alt="screenshot" width="100%">
 </p>
 
----
 
-## Key Features
+## 🔑Key Features
 
-- Google analytics support
-- Multiple author available
-- Contact form Support
-- Post reading time calculator
-- Google map support
-- Post reading time calculator
-- Google page speed optimized
-- Open graph meta tag
-- Twitter card meta tag
+- 📄 6+ Pre-Designed Pages
+- 📊 Google Analytics support
+- 👥 Multiple author available
+- ✉️ Contact form support
+- 🅱️ Bootstrap Based
+- ⏱️ Post reading time calculator
+- 🗺️ Google Maps support
+- ⚡ Google Page Speed optimized
+- 🌐 Open Graph meta tag
+- 🐦 Twitter Card meta tag
 
-## Local development
+## 📄 6+ Pre-Designed Pages
+- 🏠 Home Page
+- 📄 Single Post Page
+- 📰 Single Publication Page
+- 🎓 Courses Page
+- 📃 Single Course Page
+- 🗂️ Category Page
+
+
+## 🔧Local development
 
 ```bash
 # clone the repository
@@ -58,7 +67,7 @@ $ hugo server --themesDir ../..
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/academia/?ref=github).
 
-## Content Management System
+## 📋Content Management System
 
 [![import to
 Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/academia-hugo&engine=hugo&version=0.87.0)
@@ -69,27 +78,27 @@ you will be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
-## Deployment and hosting
+## ⚙️Deployment and hosting
 
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/academia-hugo)
 
 Follow the steps.
 
-## Prefer a video? (Hugo + Netlify + Forestry)
+## 🎥Prefer a video? (Hugo + Netlify + Forestry)
 
 Build your website with **Academia Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
-## Reporting Issues
+## 🐞Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the academia Template. Please Search [existing
 issues](https://github.com/themefisher/academia-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/themefisher/academia-hugo/issues).
 
-## Submit Your Website To Our Showcase
+## 📱Submit Your Website To Our Showcase
 
 Are you using Academia Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
@@ -100,7 +109,7 @@ View all the websites powered by Academia Hugo from [here](https://gethugothemes
 [Submit](https://gethugothemes.com/showcase?submit=show) your Academia Hugo powered website.
 
 <!-- licence -->
-## License
+## 📄License
 
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
@@ -111,7 +120,7 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 <!-- resources -->
-## Special Thanks
+## 🙏Special Thanks
 
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
@@ -123,7 +132,7 @@ share those images.
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/themefisher/academia-hugo/graphs/contributors)
 
-## Hire Us
+## 👨‍💻Hire Us
 
 Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo.
 
@@ -131,7 +140,7 @@ If you need to customize the theme or complete website development from scratch,
 [Services](https://gethugothemes.com/services/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme)
 
 <!-- premium themes -->
-## Premium Themes By Us
+## 💎Premium Themes By Us
 
 | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=academia_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Gofolium](https://demo.gethugothemes.com/thumbnails/gofolium.png)](https://gethugothemes.com/products/gofolium/) | [![northendlab](https://demo.gethugothemes.com/thumbnails/northendlab.png)](https://gethugothemes.com/products/northendlab/) |
 |:---:|:---:|:---:|
