@@ -1,14 +1,26 @@
 # IDE specific
 .idea/
-.vscode/
 
 # Jupyter
 .ipynb_checkpoints/
 
 # Node
-node_modules/
+node_modules
 public
 
-.hugo_build.lock
-resources
+Thumbs.db
 .DS_Store
+.dist
+.tmp
+.lock
+.sass-cache
+npm-debug.log
+builds
+package-lock.json
+public
+resources
+.hugo_build.lock
+jsconfig.json
+hugo_stats.json
+go.sum
+yarn.lock
