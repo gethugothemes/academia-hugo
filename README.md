@@ -59,10 +59,10 @@
 git clone git@github.com:themefisher/academia-hugo.git
 
 # setup project
-$ yarn project-setup
+$ npm run project-setup
 
 # Start local dev server
-$ yarn dev
+$ npm run dev
 ```
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/academia/?ref=github).
