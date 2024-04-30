@@ -14,7 +14,8 @@
     {{/* Show the About widget if an account exists for this user. */}}
     {{ if .File }}
       {{ $widget := "widgets/about.html" }}
-      {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $baseExcluded := strings.TrimLeft site.BaseURL .Permalink  }}
+      {{ $username := index (split $baseExcluded "/") 1 }}
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}

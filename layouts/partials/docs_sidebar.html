@@ -1,7 +1,10 @@
 {{ $current_page := . }}
 
 {{/* Dynamically load menu for this docs page. */}}
-{{ $menu_name := path.Base (path.Split .CurrentSection.File).Dir }}
+{{/*  {{ $menu_name := path.Base (path.Split .CurrentSection.File).Dir }}  */}}
+{{ $baseExcluded := strings.TrimLeft site.BaseURL .Permalink  }}
+{{ $menu_name := index (split $baseExcluded "/") 1 }}
+
 {{ if not (index site.Menus $menu_name) }}
   {{ errorf "Please define menu items named `menu: %s:` in your %s front matter or define `[[menu.%s]]` in `config/default/menus.toml`. See https://sourcethemes.com/academic/docs/managing-content/#menus" $menu_name .Path $menu_name }}
 {{ end }}
