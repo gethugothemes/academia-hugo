@@ -45,9 +45,9 @@
     {{ end }}
 
     {{/* Comments JS. */}}
-    {{ $comments_enabled := and site.DisqusShortname (not (or site.Params.disable_comments $.Params.disable_comments)) }}
+    {{ $comments_enabled := and .Site.Config.Services.Disqus.Shortname (not (or site.Params.disable_comments $.Params.disable_comments)) }}
     {{ if and $comments_enabled (site.Params.comment_count | default true) }}
-    <script id="dsq-count-scr" src="//{{ site.DisqusShortname }}.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="//{{ .Site.Config.Services.Disqus.Shortname }}.disqus.com/count.js" async></script>
     {{ end }}
 
     {{/* Initialise code highlighting. */}}

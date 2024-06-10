@@ -117,7 +117,7 @@
     <link rel="stylesheet" href="{{ $css_bundle.RelPermalink }}">
   {{ end }}
 
-  {{ if not site.IsServer }}
+  {{ if not hugo.IsServer }}
   {{ if site.Params.microsoft_clarity }}
     <script type="text/javascript">
       (function(c,l,a,r,i,t,y){
