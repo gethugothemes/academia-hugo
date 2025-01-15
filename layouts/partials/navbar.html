@@ -1,9 +1,8 @@
 {{ $current_page := . }}
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
-
     <!-- Brand and toggle get grouped for better mobile display -->
-      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+    <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
         {{- if site.Params.logo -}}
         <img src="{{ printf "/img/%s" site.Params.logo | relURL }}" alt="{{ site.Title }}">
         {{- else -}}

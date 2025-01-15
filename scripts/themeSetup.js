@@ -50,9 +50,15 @@ const setupTheme = () => {
 
   if (!fs.existsSync(path.join(rootFolder, "exampleSite"))) {
     const includesFiles = [
+      "tailwind.config.js",
+      "postcss.config.js",
+      "go.mod",
       "hugo.toml",
+      "assets",
       "config",
+      "data",
       "content",
+      "i18n",
       "static",
     ];
 

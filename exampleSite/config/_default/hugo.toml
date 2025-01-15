@@ -16,7 +16,7 @@ baseURL = "https://gethugothemes.com/academia/site/"
 copyright = "Copyright &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+googleAnalytics = "#####" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 
 ############################
 ## Advanced options below ##
@@ -34,7 +34,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
-paginate = 10  # Number of items per page in paginated lists.
+pagination.pagerSize = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -83,6 +83,9 @@ target = '$1'
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 # Caches
 [caches]
