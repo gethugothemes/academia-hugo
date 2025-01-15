@@ -127,7 +127,7 @@
       })(window, document, "clarity", "script", "{{ site.Params.microsoft_clarity }}");
     </script>
   {{ end }}
-  {{ if site.GoogleAnalytics }}
+  {{ if site.Params.GoogleAnalytics }}
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', '{{ site.GoogleAnalytics }}', 'auto');
