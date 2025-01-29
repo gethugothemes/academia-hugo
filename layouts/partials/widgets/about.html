@@ -20,13 +20,8 @@
   itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
   <div class="col-lg-5">
     <div id="profile">
-      {{ if site.Params.gravatar }}
-      <img class="portrait img-fluid" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')"
-        itemprop="image" alt="Avatar">
-      {{ else }}
       {{ $avatar_image := .page.Params.avatar_image }}
       <img class="img-fluid" src="{{ printf "img/%s" $avatar_image | relURL }}" itemprop="image" alt="Avatar">
-      {{ end }}
     </div>
     <ul class="network-icon bg-white mx-2 py-2 text-center" aria-hidden="true">
       {{ range $person.social }}
@@ -71,7 +66,6 @@
 
 
     {{ $person_page.Content }}
-
     {{ range $person.btn }}
     <a href="{{ .url }}" class="btn btn-primary btn-lg"><i class="fas fa-download mr-2" aria-hidden="true"></i>{{ .label }}</a>
     {{ end }}
