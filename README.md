@@ -65,7 +65,7 @@ $ npm run project-setup
 $ npm run dev
 ```
 
-Or Check out [Full Documentation](https://docs.gethugothemes.com/academia/?ref=github).
+Or Check out [Full Documentation](https://docs.gethugothemes.com/guide/?ref=github).
 
 
 ## ⚙️Deployment and hosting
