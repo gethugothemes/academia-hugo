@@ -77,7 +77,7 @@ gallery_item:
 
 - **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
 - **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://docs.gethugothemes.com/guide/#install-with-rstudio)
 - **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
 - **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
 - **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
@@ -108,10 +108,10 @@ Choose a stunning color and font theme for your site. Themes are fully customiza
 
 You can choose from one of the following four methods to install:
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+* [**one-click install using your web browser (recommended)**](https://docs.gethugothemes.com/guide/#install-with-web-browser)
+* [install on your computer using **Git** with the Command Prompt/Terminal app](https://docs.gethugothemes.com/guide/#install-with-git)
+* [install on your computer by downloading the **ZIP files**](https://docs.gethugothemes.com/guide/#install-with-zip)
+* [install on your computer with **RStudio**](https://docs.gethugothemes.com/guide/#install-with-rstudio)
 
 Then [personalize and deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
 
