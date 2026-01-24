@@ -2,7 +2,7 @@
 
 <p align=center> This Hugo theme is perfect for crafting a website for academic portfolio, Resume, publication, etc. The theme basically includes six crucial pages, essential homepage sections, forms, and more</p>
 
-<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">👀Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Facademia%2Fsite%2F&form_factor=desktop" rel="nofollow">Page Speed (97%)🚀</a> </h2>
+<h2 align="center"><a target="_blank" href="https://academia-hugo.vercel.app/" rel="nofollow">👀Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/analysis/https-academia-hugo-vercel-app/hw5ql2y49g?form_factor=desktop" rel="nofollow">Page Speed (97%)🚀</a> </h2>
 
 
 <p align=center>
