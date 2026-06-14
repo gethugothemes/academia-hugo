@@ -1,6 +1,6 @@
 {
   "name": "academia",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Hugo theme for Academic. Create a beautifully simple website for academics and researchers.",
   "main": "index.js",
   "dependencies": {
