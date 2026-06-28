@@ -15,7 +15,8 @@
     "build:example": "cd exampleSite; hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
     "test:example": "cd exampleSite; hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
     "project-setup": "node ./scripts/projectSetup.js",
-    "theme-setup": "node ./scripts/themeSetup.js"
+    "theme-setup": "node ./scripts/themeSetup.js",
+    "postinstall": "node -e \"const fs=require('fs'),p='node_modules/.bin/tailwindcss';try{fs.lstatSync(p).isSymbolicLink()||((fs.unlinkSync(p)),fs.symlinkSync('../@tailwindcss/cli/dist/index.mjs',p))}catch(e){}\""
   },
   "repository": {
     "type": "git",

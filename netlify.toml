@@ -1,8 +1,8 @@
 [build]
 publish = "public"
-command = "yarn project-setup && yarn build"
+command = "pnpm project-setup && pnpm build"
 
 [build.environment]
-HUGO_VERSION = "0.124.1"
+HUGO_VERSION = "0.160.0"
 GO_VERSION = "1.22.2"
 HUGO_BASEURL = "/"

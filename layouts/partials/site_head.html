@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academia {{ site.Data.academia.version }}">
+  <meta name="generator" content="Source Themes Academia {{ hugo.Data.academia.version }}">
   <meta name="theme-name" content="academia-hugo"/>
 
   {{ $scr := .Scratch }}
@@ -42,8 +42,8 @@
   <link rel="alternate" hreflang="{{ site.LanguageCode | default "en-us" }}" href="{{ .Permalink }}">
 
   {{ partial "functions/parse_theme" . }}
-  {{ $css := site.Data.assets.css }}
-  {{ $js := site.Data.assets.js }}
+  {{ $css := hugo.Data.assets.css }}
+  {{ $js := hugo.Data.assets.js }}
   {{ if ne ($scr.Get "primary") "#fff" }}
   <meta name="theme-color" content="{{ $scr.Get "primary" }}">
   {{ end }}
@@ -106,7 +106,7 @@
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
   {{ if site.Params.plugins_css }}
-    {{ $css_comment := printf "/* Source Themes academia v%s | https://sourcethemes.com/academic/ */\n" site.Data.academia.version }}
+    {{ $css_comment := printf "/* Source Themes academia v%s | https://sourcethemes.com/academic/ */\n" hugo.Data.academia.version }}
     {{ $css_bundle_head := $css_comment | resources.FromString "css/bundle-head.css" }}
     {{ $css_bundle := slice }}
     {{ range site.Params.plugins_css }}

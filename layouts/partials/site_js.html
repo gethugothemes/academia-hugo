@@ -7,7 +7,7 @@
     {{ end }}
 
     {{/* Attempt to load local vendor JS, otherwise load from CDN. */}}
-    {{ $js := site.Data.assets.js }}
+    {{ $js := hugo.Data.assets.js }}
     {{ if not ($scr.Get "use_cdn") }}
       <script src="{{ printf "/js/vendor/%s" ($scr.Get "vendor_js_filename") | relURL }}"></script>
     {{ else }}
@@ -130,7 +130,7 @@
     </script>
     {{ end }}
 
-    {{ $js_comment := printf "/* Source Themes academia v%s | https://sourcethemes.com/academic/ */\n" site.Data.academia.version }}
+    {{ $js_comment := printf "/* Source Themes academia v%s | https://sourcethemes.com/academic/ */\n" hugo.Data.academia.version }}
     {{ $js_bundle_head := $js_comment | resources.FromString "js/bundle-head.js" }}
     {{ $js_linebreak := "\n" | resources.FromString "js/linebreak.js" }}{{/* Fix no line break after Bootstrap JS causing error. */}}
     {{ $js_academia := resources.Get "js/academia.js" }}

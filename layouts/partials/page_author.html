@@ -21,7 +21,7 @@
 {{ with $profile_page }}
   {{/* If it's a personal site and primary page author is superuser, link to the homepage rather than their profile page. */}}
   {{ $profile_url := .RelPermalink }}
-  {{ if and (not site.Data.organization.name) (eq .Params.superuser true) }}
+  {{ if and (not hugo.Data.organization.name) (eq .Params.superuser true) }}
     {{ $profile_url = site.BaseURL }}
   {{ end }}
   {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
